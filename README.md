@@ -1,6 +1,6 @@
 # Social media icons
 
-70 social media icons in [Sketch app resource file](https://raw.githubusercontent.com/konsav/social-icons/master/social-icons.sketch).
+80 social media icons in [Sketch app resource file](https://raw.githubusercontent.com/konsav/social-icons/master/social-icons.sketch).
 
 <img src="https://raw.githubusercontent.com/konsav/social-icons/master/readme-images/preview.png" alt="60 social media icons" width="624">
 
